@@ -7,7 +7,7 @@ Front-end Developer with hands-on experience in HTML5, CSS3, JavaScript, React, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/роман-драгуца-95a972261/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@V1rs999)
 [![Static Badge](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=blue&labelColor=black&color=black&link=https%3A%2F%2Ft.me%2Fmer1h1m)](https://t.me/mer1h1m)
-[![Static Badge](https://img.shields.io/badge/email-white?logo=gmail&logoColor=red&labelColor=black&color=%231E201E&link=https%3A%2F%2Ft.me%2Fmer1h1m)](mailto:romadraguca@gmail.com)
+[![Static Badge](https://img.shields.io/badge/email-white?logo=gmail&logoColor=red&labelColor=black&color=%231E201E&link=https%3A%2F%2Ft.me%2Fmer1h1m)](romadraguca@gmail.com)
 
 
 
