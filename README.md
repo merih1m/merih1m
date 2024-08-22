@@ -32,7 +32,7 @@ Front-end Developer with hands-on experience in HTML5, CSS3, JavaScript, React, 
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&theme=transparent)
 
 ---
 
