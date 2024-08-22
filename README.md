@@ -25,7 +25,7 @@ Front-end Developer with hands-on experience in HTML5, CSS3, JavaScript, React, 
 
 #
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=merih1m&show_icons=true&theme=transparent" style="height: 250px; width: 47%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=merih1m&show_icons=true&theme=transparent" style="height: 200px; width: 47%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merih1m&layout=compact&theme=transparent" style="height: 200px; width: 47%;" />
 </div>
 
